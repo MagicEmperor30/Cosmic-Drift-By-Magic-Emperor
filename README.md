@@ -1,7 +1,7 @@
 
 # Cosmic Drift
 
-**Cosmic Drift** is an exciting 2D space-themed game built with Unity. Navigate through cosmic challenges and master unique levels to become the ultimate space explorer!
+**Cosmic Drift** is an exciting 3D space-themed game built with Unity. Navigate through cosmic challenges and master unique levels to become the ultimate space explorer!
 
 ## Overview
 
