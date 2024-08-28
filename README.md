@@ -26,12 +26,12 @@ In **Cosmic Drift**, you control a spacecraft drifting through space, with each 
 To run the game, follow these steps:
 
 1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/cosmic-drift.git
+   ```
+   git clone https://github.com/MagicEmperor30/Cosmic-Drift-By-Magic-Emperor.git
    ```
    
 2. **Navigate to the Project Directory**:
-   ```sh
+   ```
    cd cosmic-drift
    ```
 
@@ -40,8 +40,8 @@ To run the game, follow these steps:
    - Click on "Add" and select the project folder.
 
 4. **Build and Run**:
-   - In Unity, go to `File` > `Build Settings`.   - Select your desired platform and click "Build and Run".
-
+   - In Unity, go to `File` > `Build Settings`.
+   - Select your desired platform and click "Build and Run".
 
 ## Contributing
 
@@ -56,14 +56,12 @@ We welcome contributions to **Cosmic Drift**! If you'd like to contribute, pleas
 
 ## Contact
 
-For any questions or feedback, please reach out to[](piyushsasane30@gmail.com).
+For any questions or feedback, please reach out to [piyushsasane30@gmail.com](mailto:piyushsasane30@gmail.com).
 
----
-Link
-https://sharemygame.com/@MagicEmperor30/cosmic-drift-project-by-magicemperor30
-https://simmer.io/@MagicEmperor30/cosmic-drift-project-by-magicemperor30 
-Thank you for playing **Cosmic Drift**! Enjoy your space adventure!
+## Links
 
+- [ShareMyGame](https://sharemygame.com/@MagicEmperor30/cosmic-drift-project-by-magicemperor30)
+- [Simmer.io](https://simmer.io/@MagicEmperor30/cosmic-drift-project-by-magicemperor30)
 ```
 
-Feel free to adjust the instructions, screenshots, and contact information to better fit your specific setup and preferences.
+This version should be straightforward and clean without any CSS or additional formatting.
